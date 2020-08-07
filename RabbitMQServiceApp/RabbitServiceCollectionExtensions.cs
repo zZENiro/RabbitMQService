@@ -14,7 +14,7 @@ namespace RabbitMQServiceApp
             services.AddSingleton<ObjectPoolProvider, DefaultObjectPoolProvider>();
             services.AddSingleton<IPooledObjectPolicy<IModel>, RabbitModelPooledObjectPolicy>();
 
-            services.AddSingleton<IRabbitManager, RabbitManager>();
+            services.AddScoped<IRabbitManager, RabbitManager>();
 
             return services;
         }
