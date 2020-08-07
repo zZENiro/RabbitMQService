@@ -1,0 +1,5 @@
+C:\Users\zZEN\Desktop\RabbitMQService\RAbbitMQServiceApp\bin\Debug\netcoreapp3.1\RabbitMQServiceApp.deps.json
+C:\Users\zZEN\Desktop\RabbitMQService\RAbbitMQServiceApp\bin\Debug\netcoreapp3.1\RabbitMQServiceApp.dll
+C:\Users\zZEN\Desktop\RabbitMQService\RAbbitMQServiceApp\obj\Debug\netcoreapp3.1\RabbitMQServiceApp.csprojAssemblyReference.cache
+C:\Users\zZEN\Desktop\RabbitMQService\RAbbitMQServiceApp\obj\Debug\netcoreapp3.1\RabbitMQServiceApp.AssemblyInfoInputs.cache
+C:\Users\zZEN\Desktop\RabbitMQService\RAbbitMQServiceApp\obj\Debug\netcoreapp3.1\RabbitMQServiceApp.AssemblyInfo.cs
